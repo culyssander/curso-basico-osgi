@@ -1,2 +1,0 @@
-CURSO BASICO DE OSGi
-
